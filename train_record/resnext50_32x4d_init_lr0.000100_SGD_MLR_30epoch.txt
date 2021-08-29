@@ -1,0 +1,8 @@
+resnext50_32x4d
+epoch: 1 train_loss: 0.698846 train_acc: 0.781650 validate_loss: 0.453279 validate_acc: 0.853250 lr: 0.000100
+epoch: 2 train_loss: 0.279148 train_acc: 0.911250 validate_loss: 0.433482 validate_acc: 0.863125 lr: 0.000100
+epoch: 3 train_loss: 0.163595 train_acc: 0.947675 validate_loss: 0.458041 validate_acc: 0.863500 lr: 0.000100
+epoch: 4 train_loss: 0.122677 train_acc: 0.960200 validate_loss: 0.449825 validate_acc: 0.869000 lr: 0.000100
+epoch: 5 train_loss: 0.091757 train_acc: 0.971550 validate_loss: 0.452318 validate_acc: 0.873250 lr: 0.000100
+epoch: 6 train_loss: 0.086678 train_acc: 0.973200 validate_loss: 0.502146 validate_acc: 0.870500 lr: 0.000100
+epoch: 7 train_loss: 0.078884 train_acc: 0.974275 validate_loss: 0.505712 validate_acc: 0.864750 lr: 0.000100

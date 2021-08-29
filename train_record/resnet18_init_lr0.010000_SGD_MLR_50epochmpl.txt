@@ -1,0 +1,58 @@
+resnet18
+epoch: 1 train_loss: 1.746505 train_acc: 0.053650 validate_loss: 1.183562 validate_acc: 0.787125 lr: 0.010000
+epoch: 2 train_loss: 1.449425 train_acc: 0.061775 validate_loss: 1.127854 validate_acc: 0.812625 lr: 0.010000
+epoch: 3 train_loss: 1.320124 train_acc: 0.062225 validate_loss: 1.094156 validate_acc: 0.827750 lr: 0.010000
+epoch: 4 train_loss: 1.303906 train_acc: 0.074250 validate_loss: 1.049934 validate_acc: 0.849750 lr: 0.010000
+epoch: 5 train_loss: 1.237682 train_acc: 0.086675 validate_loss: 1.047857 validate_acc: 0.847000 lr: 0.010000
+epoch: 6 train_loss: 1.186493 train_acc: 0.076850 validate_loss: 1.031887 validate_acc: 0.855250 lr: 0.010000
+epoch: 7 train_loss: 1.171468 train_acc: 0.078925 validate_loss: 1.030063 validate_acc: 0.852875 lr: 0.010000
+epoch: 8 train_loss: 1.154324 train_acc: 0.097900 validate_loss: 0.998285 validate_acc: 0.862000 lr: 0.010000
+epoch: 9 train_loss: 1.135332 train_acc: 0.082425 validate_loss: 1.027538 validate_acc: 0.856750 lr: 0.010000
+epoch: 10 train_loss: 1.181223 train_acc: 0.089150 validate_loss: 1.045370 validate_acc: 0.860500 lr: 0.010000
+Total epoch is 10, the max accuracy is 0.862000, when epoch is 8.
+epoch: 11 train_loss: 1.115753 train_acc: 0.083250 validate_loss: 1.031475 validate_acc: 0.858625 lr: 0.010000
+epoch: 12 train_loss: 1.133781 train_acc: 0.085400 validate_loss: 1.045547 validate_acc: 0.855875 lr: 0.010000
+epoch: 13 train_loss: 1.113179 train_acc: 0.075625 validate_loss: 1.006381 validate_acc: 0.867375 lr: 0.010000
+epoch: 14 train_loss: 1.026201 train_acc: 0.068425 validate_loss: 1.021229 validate_acc: 0.863375 lr: 0.010000
+epoch: 15 train_loss: 0.995097 train_acc: 0.099200 validate_loss: 1.014098 validate_acc: 0.862625 lr: 0.010000
+epoch: 16 train_loss: 1.018370 train_acc: 0.080950 validate_loss: 0.996962 validate_acc: 0.876500 lr: 0.002000
+epoch: 17 train_loss: 1.015373 train_acc: 0.095300 validate_loss: 0.963565 validate_acc: 0.882875 lr: 0.002000
+epoch: 18 train_loss: 1.100058 train_acc: 0.083900 validate_loss: 0.989793 validate_acc: 0.875625 lr: 0.002000
+epoch: 19 train_loss: 1.058847 train_acc: 0.078375 validate_loss: 0.979066 validate_acc: 0.879875 lr: 0.002000
+epoch: 20 train_loss: 1.021469 train_acc: 0.093125 validate_loss: 0.999951 validate_acc: 0.876625 lr: 0.002000
+Total epoch is 20, the max accuracy is 0.882875, when epoch is 17.
+epoch: 21 train_loss: 1.050206 train_acc: 0.076950 validate_loss: 0.979962 validate_acc: 0.880750 lr: 0.002000
+epoch: 22 train_loss: 1.032831 train_acc: 0.077825 validate_loss: 0.998352 validate_acc: 0.876250 lr: 0.002000
+epoch: 23 train_loss: 1.072963 train_acc: 0.064200 validate_loss: 0.976381 validate_acc: 0.878125 lr: 0.002000
+epoch: 24 train_loss: 1.063407 train_acc: 0.076100 validate_loss: 0.971912 validate_acc: 0.879000 lr: 0.002000
+epoch: 25 train_loss: 1.017775 train_acc: 0.072025 validate_loss: 0.990653 validate_acc: 0.877250 lr: 0.002000
+epoch: 26 train_loss: 1.004306 train_acc: 0.075150 validate_loss: 0.984139 validate_acc: 0.880250 lr: 0.000400
+epoch: 27 train_loss: 0.997693 train_acc: 0.090175 validate_loss: 0.975333 validate_acc: 0.881625 lr: 0.000400
+epoch: 28 train_loss: 1.023998 train_acc: 0.084225 validate_loss: 0.980838 validate_acc: 0.880500 lr: 0.000400
+epoch: 29 train_loss: 0.948212 train_acc: 0.086625 validate_loss: 0.996125 validate_acc: 0.877125 lr: 0.000400
+epoch: 30 train_loss: 0.980467 train_acc: 0.086225 validate_loss: 0.977868 validate_acc: 0.881250 lr: 0.000400
+Total epoch is 30, the max accuracy is 0.882875, when epoch is 17.
+epoch: 31 train_loss: 0.989676 train_acc: 0.089150 validate_loss: 0.986866 validate_acc: 0.878125 lr: 0.000400
+epoch: 32 train_loss: 0.980616 train_acc: 0.078750 validate_loss: 0.998692 validate_acc: 0.877250 lr: 0.000400
+epoch: 33 train_loss: 0.992605 train_acc: 0.085950 validate_loss: 0.971258 validate_acc: 0.881125 lr: 0.000400
+epoch: 34 train_loss: 1.010748 train_acc: 0.085200 validate_loss: 0.987210 validate_acc: 0.877375 lr: 0.000400
+epoch: 35 train_loss: 1.022034 train_acc: 0.095000 validate_loss: 0.986552 validate_acc: 0.878375 lr: 0.000400
+epoch: 36 train_loss: 0.986622 train_acc: 0.076250 validate_loss: 0.982289 validate_acc: 0.880500 lr: 0.000080
+epoch: 37 train_loss: 1.020375 train_acc: 0.080450 validate_loss: 0.994081 validate_acc: 0.878375 lr: 0.000080
+epoch: 38 train_loss: 0.984591 train_acc: 0.092275 validate_loss: 0.978563 validate_acc: 0.880500 lr: 0.000080
+epoch: 39 train_loss: 1.047313 train_acc: 0.096000 validate_loss: 0.992405 validate_acc: 0.879125 lr: 0.000080
+epoch: 40 train_loss: 1.057848 train_acc: 0.091175 validate_loss: 0.981177 validate_acc: 0.878500 lr: 0.000080
+Total epoch is 40, the max accuracy is 0.882875, when epoch is 17.
+epoch: 41 train_loss: 1.014635 train_acc: 0.099125 validate_loss: 0.990494 validate_acc: 0.878250 lr: 0.000080
+epoch: 42 train_loss: 0.975462 train_acc: 0.092700 validate_loss: 0.972881 validate_acc: 0.880625 lr: 0.000080
+epoch: 43 train_loss: 1.004126 train_acc: 0.091050 validate_loss: 1.005616 validate_acc: 0.877125 lr: 0.000080
+epoch: 44 train_loss: 1.013657 train_acc: 0.079325 validate_loss: 0.972124 validate_acc: 0.881250 lr: 0.000080
+epoch: 45 train_loss: 1.013456 train_acc: 0.063925 validate_loss: 0.996741 validate_acc: 0.877625 lr: 0.000080
+epoch: 46 train_loss: 1.051740 train_acc: 0.103475 validate_loss: 0.984841 validate_acc: 0.879625 lr: 0.000080
+epoch: 47 train_loss: 1.014082 train_acc: 0.071500 validate_loss: 0.988853 validate_acc: 0.878875 lr: 0.000080
+epoch: 48 train_loss: 1.020819 train_acc: 0.081850 validate_loss: 0.974435 validate_acc: 0.880000 lr: 0.000080
+epoch: 49 train_loss: 1.058446 train_acc: 0.070150 validate_loss: 0.974202 validate_acc: 0.880875 lr: 0.000080
+epoch: 50 train_loss: 0.978908 train_acc: 0.114250 validate_loss: 0.979663 validate_acc: 0.879500 lr: 0.000080
+Total epoch is 50, the max accuracy is 0.882875, when epoch is 17.
+Done!
+The max accuracy is 0.882875, when epoch is 17.

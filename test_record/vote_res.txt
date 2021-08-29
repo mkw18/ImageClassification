@@ -1,0 +1,17 @@
+ResNet18
+30-200epoch
+0.7920
+ResNet34
+30-200epoch
+0.8010
+ResNet18+ResNet34
+30-200epoch
+0.8100
+
+transfer learning
+0.9395
+0.9425
+
+0.8750
+0.8790
+0.8845

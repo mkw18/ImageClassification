@@ -1,0 +1,12 @@
+resnext50_32x4d
+epoch: 1 train_loss: 3.026520 train_acc: 0.266675 validate_loss: 2.439605 validate_acc: 0.362625 lr: 0.100000
+epoch: 2 train_loss: 1.820928 train_acc: 0.495700 validate_loss: 3.056486 validate_acc: 0.306125 lr: 0.100000
+epoch: 3 train_loss: 1.501007 train_acc: 0.569750 validate_loss: 1.836144 validate_acc: 0.506625 lr: 0.100000
+epoch: 4 train_loss: 1.203809 train_acc: 0.646075 validate_loss: 1.734899 validate_acc: 0.534750 lr: 0.100000
+epoch: 5 train_loss: 1.008111 train_acc: 0.698750 validate_loss: 1.434018 validate_acc: 0.605625 lr: 0.100000
+epoch: 6 train_loss: 0.875500 train_acc: 0.731650 validate_loss: 1.403523 validate_acc: 0.621375 lr: 0.100000
+epoch: 7 train_loss: 0.759305 train_acc: 0.763275 validate_loss: 1.415075 validate_acc: 0.624125 lr: 0.100000
+epoch: 8 train_loss: 0.664294 train_acc: 0.792250 validate_loss: 1.511344 validate_acc: 0.612000 lr: 0.100000
+epoch: 9 train_loss: 0.611553 train_acc: 0.804425 validate_loss: 1.782292 validate_acc: 0.578000 lr: 0.100000
+epoch: 10 train_loss: 0.481853 train_acc: 0.844350 validate_loss: 1.415863 validate_acc: 0.643750 lr: 0.100000
+Total epoch is 10, the max accuracy is 0.643750, when epoch is 10.

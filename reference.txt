@@ -1,0 +1,38 @@
+﻿https://pytorch.apachecn.org/docs/1.0/blitz_neural_networks_tutorial.html ——LeNet
+https://cloud.tencent.com/developer/article/1383124 ——简化VGG-16
+https://blog.csdn.net/briblue/article/details/83792394 ——VGG介绍
+https://blog.csdn.net/JachinMa/article/details/95883906 ——ResNet18
+https://www.cnblogs.com/zhengbiqing/p/10432169.html ——ResNet18修改第一层
+https://arxiv.org/pdf/1512.03385.pdf ——resnet
+https://arxiv.org/pdf/1611.05431.pdf ——resnext
+https://arxiv.org/pdf/1605.07146.pdf ——wide_resnet
+https://www.jianshu.com/p/1db8581edd4f ——pytorch 优化器调参以及正确用法
+https://ptorch.com/news/54.html ——pytorch中使用torch.optim优化神经网络以及优化器的选择
+https://blog.csdn.net/XX_123_1_RJ/article/details/86677482 ——池化层的作用和种类
+https://blog.csdn.net/lzw17750614592/article/details/85019761 ——上采样与下采样
+
+https://pytorch.org/docs/stable/optim.html
+
+https://pytorch.org/docs/stable/_modules/torchvision/models/resnet.html ——官方resnet
+https://zhuanlan.zhihu.com/p/37189203 ——DenseNet
+https://www.cnblogs.com/zhengbiqing/p/10432169.html ——resnet结构
+https://blog.csdn.net/weixin_36979214/article/details/108883541 ——PyTorch实现ResNet50,训练数据：CIFAR-10
+
+https://www.jianshu.com/p/8a117f639eef ——DenseNet算法详解
+
+https://arxiv.org/pdf/1708.04552.pdf ——cutout
+https://arxiv.org/pdf/1705.07485.pdf ——shakeshake
+https://github.com/hysts/pytorch_shake_shake
+https://github.com/uoguelph-mlrg/Cutout
+https://github.com/facebookresearch/mixup-cifar10
+https://blog.csdn.net/winycg/article/details/88410981 ——Pytorch实现数据集的加载和数据增强
+https://www.cnblogs.com/logchen/p/10268033.html
+https://blog.csdn.net/haimaer/article/details/81567281
+https://www.jianshu.com/p/90142b8a5c1b
+
+https://arxiv.org/pdf/1409.1556.pdf ——VGG
+
+mixup
+https://github.com/hongyi-zhang/mixup
+https://arxiv.org/pdf/1710.09412.pdf
+https://github.com/facebookresearch/mixup-cifar10

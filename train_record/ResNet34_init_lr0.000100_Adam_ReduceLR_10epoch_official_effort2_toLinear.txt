@@ -1,0 +1,13 @@
+ResNet34
+epoch: 1 loss: 2.5313844645500185  cross_accuracy: 0.2600838658146965
+epoch: 2 loss: 2.1908827477455137  cross_accuracy: 0.35613019169329074
+epoch: 3 loss: 1.9868227945327759  cross_accuracy: 0.36461661341853036
+epoch: 4 loss: 1.8269562188148498  cross_accuracy: 0.4468849840255591
+epoch: 5 loss: 1.6972373443603515  cross_accuracy: 0.4390974440894569
+epoch: 6 loss: 1.596484660434723  cross_accuracy: 0.5
+epoch: 7 loss: 1.5116295713424683  cross_accuracy: 0.5159744408945687
+epoch: 8 loss: 1.434692858839035  cross_accuracy: 0.5506190095846646
+epoch: 9 loss: 1.367205524110794  cross_accuracy: 0.5435303514376997
+epoch: 10 loss: 1.314346803712845  cross_accuracy: 0.564297124600639
+Done!
+The max accuracy is 0.564297, when epoch is 10.
